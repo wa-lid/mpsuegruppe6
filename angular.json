@@ -119,8 +119,7 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy",
-          "options": {"baseHref":"mpsuegruppe6"}
+          "builder": "angular-cli-ghpages:deploy"
 
         }
       }
